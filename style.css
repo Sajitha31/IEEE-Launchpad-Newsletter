@@ -16,6 +16,12 @@ nav {
 
 
 h2 {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+h3 {
     color: white;
     font-size: 20px;
     text-align: center;
@@ -40,7 +46,6 @@ h2 {
 
 .first {
     border-radius: 3px;
-    width: 50%;
     color: rgb(0, 0, 0);
     word-spacing: 3px;
     justify-items: center;
@@ -49,7 +54,6 @@ h2 {
 
 .second {
     border-radius: 3px;
-    width: 50%;
     color: rgb(0, 0, 0);
     word-spacing: 3px;
     justify-items: center;
