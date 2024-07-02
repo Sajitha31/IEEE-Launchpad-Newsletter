@@ -9,15 +9,11 @@ nav {
 
     background-color: black;
     display: flex;
-    justify-items: center;
+    align-items: center;
     align-items: center;
 }
 
-h1 {
-    color: white;
-    font-size: 30px;
-    text-align: center;
-}
+
 
 h2 {
     color: white;
